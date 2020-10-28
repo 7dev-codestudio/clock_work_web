@@ -4,7 +4,7 @@ import './styles.module.css';
 
 function Home() {
   return(
-    <h1></h1>
+    <h1>Home</h1>
   );
 }
 
